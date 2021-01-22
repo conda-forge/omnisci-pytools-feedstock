@@ -30,7 +30,6 @@ requirements:
     - altair
     - vega_datasets
     - pyyaml
-    - nodejs
 
 test:
   imports:
@@ -53,3 +52,4 @@ extra:
     - mikehinchey
     - jp-harvey
     - scopatz
+    - xmnlab
